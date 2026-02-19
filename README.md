@@ -39,7 +39,7 @@ flight_fare_project/
 │
 ├── models/
 │   └── best_model.pkl
-├── models/
+├── docs/
 │   ├── problem_definition.md
 │   └── project_report.md
 │
