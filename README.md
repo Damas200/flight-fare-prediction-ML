@@ -39,6 +39,9 @@ flight_fare_project/
 │
 ├── models/
 │   └── best_model.pkl
+├── models/
+│   ├── problem_definition.md
+│   └── project_report.md
 │
 ├── data_loader.py
 ├── preprocessing.py
@@ -48,7 +51,6 @@ flight_fare_project/
 ├── train_pipeline.py
 │
 ├── Exploratory Data Analysis & Visualization.ipynb
-├── project_report.md
 ├── requirements.txt
 └── README.md
 ```
