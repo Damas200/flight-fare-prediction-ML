@@ -20,21 +20,6 @@ def train_models(df, target_column, sample_size=None):
     """
     Train multiple regression models for flight fare prediction.
 
-    Parameters
-    ----------
-    df : pd.DataFrame
-        Cleaned and feature-engineered dataset.
-    target_column : str
-        Name of target column.
-    sample_size : int or None
-        If provided, randomly samples dataset for faster training (dev mode).
-
-    Returns
-    -------
-    results : dict
-        Model performance dictionary.
-    X_test : pd.DataFrame
-    y_test : np.array
     """
 
     print("\n================ Model Training ================\n")
